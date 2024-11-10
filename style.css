@@ -1,0 +1,49 @@
+body{
+    background-color: azure;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+nav{
+    width: 70%;
+}
+
+header img{
+    width: 700px;
+    width:max-content;
+}
+
+ul{
+    list-style-type: none;
+    background-color:aliceblue;
+    overflow: hidden;
+    margin:0;
+    padding:0;
+}
+
+a[href]{
+    text-decoration: none;
+}
+
+li{float:left;
+}
+
+li a {
+    display: block;
+    color:blue;
+    text-align: center;
+    padding:14;
+    margin: ;
+    padding: 10px 14px;
+    border-radius: 1rem;
+    border-color:bisque;
+}
+
+a:hover{
+    background-color: antiquewhite;
+}
+
+.notice-board{
+    color:black;
+    background-color: rgb(244, 244, 240);
+}
